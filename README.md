@@ -71,3 +71,5 @@ Internet Use
 While we take reasonable steps to maintain secure internet connections, if you provide us with personal information over the internet, the provision of that information is at your own risk.
 
 If you follow a link on our website to another site, the owner of that site will have its own privacy policy relating to your personal information. We suggest you review that site’s privacy policy before you provide personal information.
+
+&copy; 2017 Darda Business Solutions. This version issued:  May 8, 2017.
